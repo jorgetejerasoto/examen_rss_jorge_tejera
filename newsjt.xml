@@ -4,5 +4,18 @@
         <title>Noticias de actualidad</title>
         <link>https://www.canarias7.es/</link>
         <description>En este canal aparecerán las noticias de actualidad</description>
+        <cathegory>Actualidad</cathegory>
+        <item>
+            <title>Sociedad Canarias 7</title>
+            <link>https://www.canarias7.es/sociedad/</link>
+            <description>Noticias sobre sociedad del periodico canarias 7</description>
+            <author>jorgetejerasoto@Alumno.ieselrincon.com (Jorge Tejera Soto)</author>
+        </item>
+        <item>
+            <title>Cultura Canarias 7</title>
+            <link>https://www.canarias7.es/cultura/</link>
+            <description>Noticias sobre cultura del periodico canarias 7</description>
+            <author>jorgetejerasoto@Alumno.ieselrincon.com (Jorge Tejera Soto)</author>
+        </item>
     </channel>
 </rss>
