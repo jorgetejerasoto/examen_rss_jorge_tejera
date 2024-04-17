@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>El tiempo en canarias</title>
+        <link>https://www.eltiempo.es/canarias</link>
+        <description>RSS que lleva a la web el tiempo, en canarias</description>
+        <cathegory>Tiempo</cathegory>
+        <item>
+            <title>Desmiente Bulos</title>
+            <link>https://maldita.es/malditobulo/</link>
+            <description>Web que desmiente bulos sobre noticias</description>
+        </item>
+        <item>
+            <title>Tutorial JavaScript</title>
+            <link>https://www.w3schools.com/js/default.asp</link>
+            <description>Enlace a un tutorial de JavaScript de la web W3School</description>
+        </item>
+        <item>
+            <title>Tutorial HTML</title>
+            <link>https://developer.mozilla.org/es/docs/Learn/HTML</link>
+            <description>Enlace a tutorial introducción sobre html</description>
+        </item>
+        <item>
+            <title>Tutorial REACT</title>
+            <link>https://www.w3schools.com/react/default.asp</link>
+            <description>Enlace a tutorial de w3school del Framework react</description>
+        </item>
+        <item>
+            <title>Tutorial EXCEL</title>
+            <link>https://www.w3schools.com/excel/index.php</link>
+            <description>Enlace a tutorial creado por W3School sobre Excel</description>
+        </item>
+        <item>
+            <title>Tutorial CSS</title>
+            <link>https://developer.mozilla.org/es/docs/Web/CSS</link>
+            <description>Enlace a la web de Mozilla developer con un tutorial sobre CSS</description>
+        </item>
+    </channel>
+</rss>
